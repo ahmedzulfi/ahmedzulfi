@@ -1,18 +1,20 @@
 <h1 align="center">Hey, I'm Ahmed 👋</h1>
 
 <p align="center">
- Self-Taught | Full-Stack Engineer (MERN, .NET, PostgreSQL)  
+  🚀 MVP Developer | 🧠 Self-Taught | 🔧 Full-Stack Engineer  
+  <br/>
+  MERN • .NET • PostgreSQL • Next.js  
   <br/>
   Building SaaS, scaling a dev agency & exploring AI + Cybersecurity
 </p>
 
 ---
 
-### 🚧 Currently Working On
+### 🚧 Currently Building
 
-- 🛠️ SaaS tools & custom software for real-world use
-- 🌍 Building in public on [Twitter/X](https://x.com/)
-- 🧠 Learning advanced AI & cybersecurity
+- 🚀 SaaS tools & custom software
+- 💻 Development agency
+- 🧠 Real-world AI experiments
 
 ---
 
@@ -28,16 +30,24 @@
 
 ---
 
-### 📈 Goals
+### 📈 GitHub Stats
 
-- ✅ Launch multiple SaaS products
-- ✅ Build an elite MVP development agency
-- ✅ Land remote clients & opportunities
-- ✅ Keep leveling up in AI & security
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedusername&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedusername&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
-### 📫 Connect
+### 📌 Featured Projects
 
-DMs open on [X (Twitter)](https://x.com/)  
-Let’s build something epic.
+- [🔗 Project 1 - SaaS Name](https://github.com/ahmedusername/project1): One-liner about what it does
+- [🔗 Project 2 - Custom Tool](https://github.com/ahmedusername/project2): One-liner about what it solves
+- [🔗 Project 3 - AI Demo](https://github.com/ahmedusername/project3): One-liner on AI use case
+
+---
+
+### 📬 Connect With Me
+
+DMs open on [Twitter/X](https://x.com/)  
+Let’s build something epic ⚡
