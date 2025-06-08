@@ -80,6 +80,10 @@ Want to see more? Check my [pinned projects](https://github.com/ahmedusername).
 - 🌍 Collaborate with other indie hackers & devs
 
 ---
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ## 🧵 I’m Building in Public
 
@@ -89,6 +93,3 @@ Feel free to DM me — I’m always down to chat about dev, design, or ideas.
 
 ---
 
-<p align="center">
-  Let’s turn ideas into products 💡
-</p>
