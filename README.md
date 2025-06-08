@@ -1,53 +1,147 @@
-<h1 align="center">Hey, I'm Ahmed 👋</h1>
+<h1 align="center">Hey, I'm Ahmed 🚀</h1>
 
 <p align="center">
-  🚀 MVP Developer | 🧠 Self-Taught | 🔧 Full-Stack Engineer  
+  Self-taught full-stack developer • MVP builder • SaaS founder  
   <br/>
-  MERN • .NET • PostgreSQL • Next.js  
-  <br/>
-  Building SaaS, scaling a dev agency & exploring AI + Cybersecurity
+  I turn ideas into real products — fast.
+</p>
+
+<p align="center">
+  <a href="https://github.com/ahmedusername">
+    <img src="https://img.shields.io/github/followers/ahmedusername?label=Follow&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://x.com/">
+    <img src="https://img.shields.io/twitter/follow/yourhandle?style=social" alt="Twitter Followers">
+  </a>
 </p>
 
 ---
 
-### 🚧 Currently Building
+## 🧠 About Me
 
-- 🚀 SaaS tools & custom software
-- 💻 Development agency
-- 🧠 Real-world AI experiments
+Hey! I'm Ahmed — I started as a web designer at 15, taught myself how to code at 17, and never looked back.
 
----
+Now I:
+- Build MVPs and SaaS products
+- Run my own development agency
+- Create content on X (Twitter) to grow my personal brand
+- Help clients turn ideas into scalable apps
+- Explore AI, cybersecurity & bleeding-edge tech
 
-### 🧰 Tech Stack
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+I believe in shipping fast, learning in public, and building software that actually solves problems.
 
 ---
 
-### 📈 GitHub Stats
+## 🔭 What I’m Working On
+
+- **PfpAvatar** – AI-powered avatar generator built with Next.js & custom backend processing
+- Multiple MVPs for startup clients
+- Building a **strong GitHub portfolio** to land remote work and build authority
+- Creating open-source tools for founders & devs
+- Learning more about **LLMs, prompt engineering**, and applied cybersecurity
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- React.js / Next.js
+- Tailwind CSS / Framer Motion
+- HTML5 / CSS3 / JavaScript / TypeScript
+
+**Backend**
+- Node.js / Express
+- .NET / C#
+- REST APIs / Auth / File Uploads
+
+**Database & Storage**
+- MongoDB
+- PostgreSQL
+- Firebase / Supabase
+
+**Dev Tools**
+- Git & GitHub
+- Vercel / Netlify / Railway
+- Docker (learning)
+
+---
+
+## 💡 Core Skills
+
+- Building MVPs from scratch (idea → product)
+- Working with real-time APIs & AI models
+- Creating pixel-perfect UI/UX
+- Manual backend + frontend auth flows
+- Building fast & clean — without boilerplate
+
+---
+
+## 🚀 Projects
+
+Here are a few of the projects I'm proud of:
+
+### 🧠 PfpAvatar
+AI profile picture generator  
+→ Upload your photo, process it with an AI model, get awesome output.  
+**Stack:** Next.js, Tailwind, custom backend, file upload, image manipulation
+
+### 🔒 SecureNotes
+End-to-end encrypted note-taking app  
+**Stack:** MERN + Crypto libraries  
+Focus: Privacy-first personal app
+
+### 🧰 DevToolsHub (WIP)
+All-in-one toolbox for developers (formatters, generators, previews)  
+**Stack:** Next.js + serverless functions  
+Perfect for quick productivity wins
+
+Want to see more? Check my [pinned repos](https://github.com/ahmedusername).
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedusername&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedusername&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedusername&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedusername&theme=tokyonight" height="180" />
 </p>
 
 ---
 
-### 📌 Featured Projects
+## 🧠 Currently Learning
 
-- [🔗 Project 1 - SaaS Name](https://github.com/ahmedusername/project1): One-liner about what it does
-- [🔗 Project 2 - Custom Tool](https://github.com/ahmedusername/project2): One-liner about what it solves
-- [🔗 Project 3 - AI Demo](https://github.com/ahmedusername/project3): One-liner on AI use case
+- AI development with OpenAI, Replicate & custom models
+- Real-world LLM integration
+- Cybersecurity fundamentals (ethical hacking, app hardening)
+- Full-scale system design
 
 ---
 
-### 📬 Connect With Me
+## 🎯 Goals for 2025
 
-DMs open on [Twitter/X](https://x.com/)  
-Let’s build something epic ⚡
+- Launch 3+ SaaS products  
+- Get first 1,000 Twitter followers  
+- Grow agency into a full-time business  
+- Contribute to open-source weekly  
+- Land a remote dev role or paid collaborations
+
+---
+
+## 🧵 Let’s Connect
+
+I post regularly on [Twitter](https://x.com/) about:
+- SaaS & MVP tips
+- AI use cases
+- Code breakdowns
+- My journey building in public
+
+📬 DM me if:
+- You want to build an MVP fast
+- Need a dev for your SaaS idea
+- Want to collab or just chat tech
+
+---
+
+<p align="center">
+  ⚡️ Let’s build something epic.
+</p>
