@@ -1,6 +1,6 @@
-<h1 align="center">Hey, I’m Ahmed 👋</h1>
+<h1 align="start">Hey, I’m Ahmed 👋</h1>
 
-<p align="center">
+<p align="start">
   Full-stack dev • MVP builder • SaaS enthusiast  
   Self-taught and figuring things out as I go.
 </p>
@@ -64,7 +64,7 @@ Want to see more? Check my [pinned projects](https://github.com/ahmedusername).
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedusername&show_icons=true&theme=radical&count_private=true" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedusername&theme=radical" height="180" />
 </p>
