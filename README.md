@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Ahmed 👋</h1>
 
 <p align="center">
-  🚀 MVP Developer | 🧠 Self-Taught | 🔧 Full-Stack Engineer (MERN, .NET, PostgreSQL)  
+ Self-Taught | Full-Stack Engineer (MERN, .NET, PostgreSQL)  
   <br/>
   Building SaaS, scaling a dev agency & exploring AI + Cybersecurity
 </p>
