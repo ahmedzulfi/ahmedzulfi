@@ -1,95 +1,41 @@
-<h1 align="start">Hey, I’m Ahmed 👋</h1>
+# Ahmed – MVP Developer & SaaS Builder
 
-<p align="start">
-  Full-stack dev • MVP builder • SaaS enthusiast  
-  Self-taught and figuring things out as I go.
-</p>
+🚀 **MVP Developer | SaaS Founder | MERN & .NET | AI & Image Generation Enthusiast**  
+Building fast, functional MVPs for startups and launching scalable SaaS products.
 
 ---
 
-## 👨‍💻 Who Am I?
-
-I’m Ahmed — a self-taught developer who went from designing websites at 15 to building full-stack SaaS apps by 17. I love the early stage of software: taking raw ideas and shipping them into working products, fast.
-
-Right now, I’m focused on:
-- Building my development agency
-- Launching niche SaaS products
-- Learning in public and documenting my journey
-- Contributing to open-source & collaborating with other builders
+### 👨‍💻 About Me
+- Self-taught developer (started web design at 15, coding at 17)
+- Founder of an MVP Development Agency
+- Focused on building **SaaS, AI-powered products, and custom software**
+- Skilled in **MERN Stack, PostgreSQL, .NET, Firebase Auth, Supabase Storage**
+- Passionate about **AI models, image generation, and fast inference systems**
+- Active on X, Threads & Instagram — **building in public and growing my personal brand**
 
 ---
 
-## 🧠 Current Focus
-
-These days I’m spending most of my time on:
-
-### 🦷 **Dental Aligner Software (SaaS)**  
-Building a platform to help dental clinics manage patient data and aligner progress digitally.  
-It’s real-world, B2B, and I’m learning a ton about product design, business logic, and working with clients.
-
-### 🎨 **PfpAvatar**  
-AI tool where users upload a photo and get back a clean, cool AI-generated avatar.  
-It’s built in **Next.js** with custom backend logic — no boilerplate, no shortcuts.
-
-### 🌍 **Exploring Open Source**  
-Open source is something I recently started diving into.  
-I’m learning how to contribute, organize my code better, and build tools others can use.  
-Planning to ship some small tools for devs, designers, and indie hackers.
+### 🛠 What I Build
+- Full-stack SaaS products (production-ready)
+- AI-driven tools (image-to-image, avatar generation)
+- Custom dashboards, analytics & real-time apps
+- Secure authentication systems & cloud integrations
 
 ---
 
-## ⚒️ Tech I Use Often
+### 🔥 Current Projects
 
-**Frontend**  
-React, Next.js, Tailwind, Framer Motion
-
-**Backend**  
-Node.js, Express, .NET, PostgreSQL, MongoDB
-
-**Infra & Tools**  
-Vercel, GitHub, Railway, Supabase, Firebase
-
+- **Tendering Marketplace (Client Project)** – TypeScript-based platform with tenders, bids, KYC, analytics
+- **5 secret projects
 ---
 
-## 🚀 What I’m Building
+### 🧠 My Goals
+- Scale my MVP development agency  
+- Launch and monetize SaaS products  
+- Build strong GitHub portfolio & attract clients  
+- Grow personal brand as an MVP & SaaS builder  
 
-- 🦷 **Dental Aligner Software** – B2B SaaS for clinics  
-- 🧠 **PfpAvatar** – AI-powered profile pic tool  
-- 🧪 **DevToolsHub (WIP)** – Toolbox for developers  
-- 🔒 **SecureNotes** – Encrypted notes for personal use
 
-Want to see more? Check my [pinned projects](https://github.com/ahmedusername).
-
----
-
-## 📈 GitHub Stats
-
-<p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedusername&show_icons=true&theme=radical&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedusername&theme=radical" height="180" />
-</p>
 
 ---
-
-## 🧭 2025 Goals
-
-- ✅ Launch 3+ SaaS products
-- ✅ Start contributing regularly to open-source
-- 🔄 Land my first 1-2 remote clients
-- 📈 Grow my presence on X (Twitter)
-- 🌍 Collaborate with other indie hackers & devs
-
----
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-
-## 🧵 I’m Building in Public
-
-You’ll find me posting updates, breakdowns, and random thoughts on:
-→ [Twitter/X](https://x.com/)  
-Feel free to DM me — I’m always down to chat about dev, design, or ideas.
-
----
-
+🚀 *Building fast. Shipping fast. Learning fast.*
