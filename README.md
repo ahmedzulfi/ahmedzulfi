@@ -1,4 +1,4 @@
-# Ahmed – MVP Developer & SaaS Builder
+# Ahmed   MVP Developer & SaaS Builder
 
 🚀 **MVP Developer | SaaS Founder | MERN & .NET | AI & Image Generation Enthusiast**  
 Building fast, functional MVPs for startups and launching scalable SaaS products.
@@ -25,7 +25,7 @@ Building fast, functional MVPs for startups and launching scalable SaaS products
 
 ### 🔥 Current Projects
 
-- **Tendering Marketplace (Client Project)** – TypeScript-based platform with tenders, bids, KYC, analytics
+- **Tendering Marketplace (Client Project)**   TypeScript-based platform with tenders, bids, KYC, analytics
 - **5 secret projects
 ---
 
