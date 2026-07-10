@@ -1,41 +1,99 @@
-# Ahmed   MVP Developer & SaaS Builder
+# Ahmed
 
-🚀 **MVP Developer | SaaS Founder | MERN & .NET | AI & Image Generation Enthusiast**  
-Building fast, functional MVPs for startups and launching scalable SaaS products.
+## Full-Stack Software Developer | SaaS, AI Agents & MVPs
 
----
-
-### 👨‍💻 About Me
-- Self-taught developer (started web design at 15, coding at 17)
-- Founder of an MVP Development Agency
-- Focused on building **SaaS, AI-powered products, and custom software**
-- Skilled in **MERN Stack, PostgreSQL, .NET, Firebase Auth, Supabase Storage**
-- Passionate about **AI models, image generation, and fast inference systems**
-- Active on X, Threads & Instagram — **building in public and growing my personal brand**
+I build production-ready SaaS products, AI agents, CRM systems, internal tools, and startup MVPs. My focus is shipping scalable software quickly without compromising maintainability or user experience.
 
 ---
 
-### 🛠 What I Build
-- Full-stack SaaS products (production-ready)
-- AI-driven tools (image-to-image, avatar generation)
-- Custom dashboards, analytics & real-time apps
-- Secure authentication systems & cloud integrations
+## About Me
+
+- Full-stack developer specializing in modern web applications
+- Building SaaS platforms, AI-powered products, CRM systems, and startup MVPs
+- Experienced with AI integrations, RAG pipelines, and workflow automation
+- Passionate about clean architecture, scalable systems, and great developer experience
+- Currently expanding into AI agents, cybersecurity, and cloud infrastructure
 
 ---
 
-### 🔥 Current Projects
+## Tech Stack
 
-- **Tendering Marketplace (Client Project)**   TypeScript-based platform with tenders, bids, KYC, analytics
-- **5 secret projects
+### Frontend
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- shadcn/ui
+
+### Backend
+- Node.js
+- Express
+- .NET
+- PostgreSQL
+- MongoDB
+- Prisma
+
+### AI & Automation
+- OpenAI
+- Claude
+- RAG
+- AI Agents
+- LangChain
+- MCP
+- Image Generation
+
+### Cloud & DevOps
+- Vercel
+- Railway
+- Supabase
+- Firebase
+- Docker
+- GitHub Actions
+
 ---
 
-### 🧠 My Goals
-- Scale my MVP development agency  
-- Launch and monetize SaaS products  
-- Build strong GitHub portfolio & attract clients  
-- Grow personal brand as an MVP & SaaS builder  
+## What I Build
 
-
+- SaaS platforms
+- Startup MVPs
+- CRM systems
+- AI agents
+- AI-powered web applications
+- Internal business tools
+- Dashboards & analytics
+- Custom APIs
+- Authentication systems
+- Multi-tenant applications
 
 ---
-🚀 *Building fast. Shipping fast. Learning fast.*
+
+## Current Focus
+
+- Building production-ready SaaS products
+- Developing AI agents and automation workflows
+- Creating reusable developer tools
+- Contributing high-quality open-source projects
+- Growing a portfolio of scalable software
+
+---
+
+## Currently Exploring
+
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- AI SDKs
+- Cybersecurity
+- Cloud Architecture
+- High-performance backend systems
+
+---
+
+## Connect
+
+- X: **@AhmedZulfiqr**
+- LinkedIn: **Ahmed Zulfiqar**
+
+---
+
+> *Building software that startups can launch, scale, and iterate on.*
