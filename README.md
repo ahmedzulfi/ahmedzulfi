@@ -1,22 +1,55 @@
-# Ahmed
+<div align="center">
 
-## Full-Stack Software Developer | SaaS, AI Agents & MVPs
+# Ahmed Zulfiqar
 
-I build production-ready SaaS products, AI agents, CRM systems, internal tools, and startup MVPs. My focus is shipping scalable software quickly without compromising maintainability or user experience.
+### Building SaaS • AI Agents • CRM Systems • Startup MVPs
+
+*I like building products from a blank screen to something people actually use.*
+
+<p>
+  <a href="https://github.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Developer;Building+SaaS+Products;AI+Agents+%26+Automation;Startup+MVPs+%7C+CRM+Systems;Always+Shipping+Something+New" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-## About Me
+## 👋 About
 
-- Full-stack developer specializing in modern web applications
-- Building SaaS platforms, AI-powered products, CRM systems, and startup MVPs
-- Experienced with AI integrations, RAG pipelines, and workflow automation
-- Passionate about clean architecture, scalable systems, and great developer experience
-- Currently expanding into AI agents, cybersecurity, and cloud infrastructure
+I'm a full-stack developer who enjoys building software from the ground up.
+
+Most of my time goes into building **SaaS products**, **AI agents**, **CRM systems**, and **startup MVPs**. I enjoy solving backend problems, designing scalable architectures, and integrating AI into real products rather than demos.
+
+Outside of client work, I'm constantly experimenting with new technologies, shipping side projects, and exploring better ways to build software faster.
+
+> **Current obsession:** AI agents, RAG, automation, developer tools, and scalable backend systems.
 
 ---
 
-## Tech Stack
+## ⚡ What I'm Building
+
+```text
+→ SaaS Platforms
+→ Startup MVPs
+→ CRM Systems
+→ AI Agents
+→ AI Chatbots
+→ Internal Business Tools
+→ Dashboards
+→ APIs
+→ Multi-tenant Applications
+→ Workflow Automation
+```
+
+---
+
+## 🧰 Tech Stack
+
+<table>
+<tr>
+<td valign="top">
 
 ### Frontend
 - Next.js
@@ -26,6 +59,10 @@ I build production-ready SaaS products, AI agents, CRM systems, internal tools, 
 - Framer Motion
 - shadcn/ui
 
+</td>
+
+<td valign="top">
+
 ### Backend
 - Node.js
 - Express
@@ -34,16 +71,28 @@ I build production-ready SaaS products, AI agents, CRM systems, internal tools, 
 - MongoDB
 - Prisma
 
-### AI & Automation
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### AI
+
 - OpenAI
 - Claude
-- RAG
-- AI Agents
 - LangChain
+- RAG
 - MCP
+- AI Agents
 - Image Generation
 
-### Cloud & DevOps
+</td>
+
+<td valign="top">
+
+### Cloud
+
 - Vercel
 - Railway
 - Supabase
@@ -51,49 +100,84 @@ I build production-ready SaaS products, AI agents, CRM systems, internal tools, 
 - Docker
 - GitHub Actions
 
----
-
-## What I Build
-
-- SaaS platforms
-- Startup MVPs
-- CRM systems
-- AI agents
-- AI-powered web applications
-- Internal business tools
-- Dashboards & analytics
-- Custom APIs
-- Authentication systems
-- Multi-tenant applications
+</td>
+</tr>
+</table>
 
 ---
 
-## Current Focus
+## 🚀 Current Focus
 
-- Building production-ready SaaS products
-- Developing AI agents and automation workflows
-- Creating reusable developer tools
-- Contributing high-quality open-source projects
-- Growing a portfolio of scalable software
+```yaml
+Building:
+  - Production-ready SaaS
+  - AI Agent Workflows
+  - CRM Platforms
+  - Developer Tools
 
----
+Learning:
+  - Cybersecurity
+  - Distributed Systems
+  - AI Infrastructure
+  - Cloud Architecture
 
-## Currently Exploring
-
-- Agentic AI
-- Retrieval-Augmented Generation (RAG)
-- AI SDKs
-- Cybersecurity
-- Cloud Architecture
-- High-performance backend systems
-
----
-
-## Connect
-
-- X: **@AhmedZulfiqr**
-- LinkedIn: **Ahmed Zulfiqar**
+Goal:
+  Ship software that scales.
+```
 
 ---
 
-> *Building software that startups can launch, scale, and iterate on.*
+## 📈 This Year
+
+- 🚀 Building production-ready startup products
+- 🤖 Shipping AI-powered applications
+- 🧠 Learning more than I did yesterday
+- ⚡ Contributing more to open source
+- 📦 Filling GitHub with projects instead of tutorials
+
+---
+
+## 💭 Philosophy
+
+```javascript
+while (alive) {
+    Build();
+    Learn();
+    Improve();
+    Ship();
+    Repeat();
+}
+```
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="left">
+<a href="https://x.com/AhmedZulfiqr">𝕏</a> •
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+<a href="https://validmvps.studio">Portfolio</a>
+</p>
+
+---
+
+<div align="center">
+
+### *Build. Ship. Repeat.*
+
+*"Ideas are cheap. Shipping isn't."*
+
+</div>
