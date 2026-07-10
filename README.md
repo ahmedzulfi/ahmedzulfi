@@ -159,7 +159,7 @@ while (alive) {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedzulfi&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
