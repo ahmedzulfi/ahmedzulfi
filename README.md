@@ -154,8 +154,8 @@ while (alive) {
 ## 📊 GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedzulfi&show_icons=true&hide_border=true&theme=github_dark"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedzulfi&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
